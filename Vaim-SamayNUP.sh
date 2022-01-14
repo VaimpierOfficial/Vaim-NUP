@@ -113,8 +113,6 @@ upp(){
 echo 25
 s=$(pwd)
 rm -rf ${s}
-cd ..
-rm -rf ${s}
 echo "#Removing"
 
 echo 35
