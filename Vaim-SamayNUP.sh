@@ -164,5 +164,5 @@ fi
 
 }
 
-apt install zenity curl
+apt install zenity curl zipalign
 menu
