@@ -111,8 +111,8 @@ scs
 upp(){
 
 echo 25
-s=$(pwd)
-rm -rf ${s}
+cd ..
+rm -rf Vaim-SamayNUP
 echo "#Removing"
 
 echo 35
