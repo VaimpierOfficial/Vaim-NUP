@@ -45,6 +45,6 @@ Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7
 Youtube [@Samay](https://www.youtube.com/c/CYBOGHACKERS)
 
 ### For Video Tutorial
-- <a href="https://www.youtube.com/watch?v=nouYD9aRZrI"> CLICK HERE AND SEE TUTORIAL FOR LAPTOP</a>
-- <a href="https://www.youtube.com/watch?v=nouYD9aRZrI"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
+- <a href="#"> CLICK HERE AND SEE TUTORIAL FOR LAPTOP</a>
+- <a href="#"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
 
