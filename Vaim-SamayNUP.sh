@@ -110,22 +110,13 @@ scs
 
 upp(){
 
-echo 25
-cd ..
-rm -rf Vaim-SamayNUP
-echo "#Removing"
-
-echo 35
-git clone https://github.com/VaimpierOfficial/Vaim-SamayNUP
-echo "#Downloading resources"
-
-echo 50
-cd Vaim-SamayNUP
-echo "#Setup"
-
-echo 60
+echo 80
+rm -rf *
+sudo git clone https://github.com/VaimpierOfficial/Vaim-SamayNUP
+mv Vaim-SamayNUP/* $(pwd)
+rm -r Vaim-SamayNUP
 sudo chmod +x *
-echo "#Giving permission"
+echo "#Resources setup"
 
 echo 100
 echo "#Successfully Downloaded"
